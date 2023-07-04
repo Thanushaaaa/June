@@ -12,11 +12,11 @@ class FishRunner{
 		System.out.println(dolphins.type);
 		System.out.println(dolphins.price);
 		System.out.println(dolphins.location);
-		Fish Bass=new Fish(900);
-		System.out.println(Bass.name);
-		System.out.println(Bass.type);
-		System.out.println(Bass.price);
-		System.out.println(Bass.location);
+		Fish bass=new Fish(900);
+		System.out.println(bass.name);
+		System.out.println(bass.type);
+		System.out.println(bass.price);
+		System.out.println(bass.location);
 		Fish fish1=new Fish("Perch",500);
 		System.out.println(fish1.name);
 		System.out.println(fish1.type);
